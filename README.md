@@ -1,1 +1,1 @@
-# 1.-Industrial-Dataset-.-
+# 1.Отделение объектов из Industrial Dataset от фона изображения
